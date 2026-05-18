@@ -8,15 +8,15 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("Predicción de Evaluación de Autos")
-st.write("**Nombre:** Anthony Baldoceda")
-st.write("**Código ISIL:** Colocar aquí tu código ISIL")
-st.write("**Cuaderno COLAB:** Colocar aquí el enlace público de tu notebook en modo lector")
+st.title("Prediccion de Evaluacion de Autos")
+st.write("**Nombre:** gonzalo fernandez")
+st.write("**Codigo ISIL:** 75929809")
+st.write("**Cuaderno COLAB:**https://colab.research.google.com/drive/1nkRJdN6O6xxKTQ9XlSHvobV7THTxXs7o?usp=sharing")
 
 st.markdown("""
 Esta aplicación utiliza modelos de machine learning para predecir la evaluación de un auto
-según sus características: precio de compra, costo de mantenimiento, número de puertas,
-capacidad de personas, tamaño de maletera y nivel de seguridad.
+segun sus caracterasticas: precio de compra, costo de mantenimiento, numero de puertas,
+capacidad de personas, tama?o de maletera y nivel de seguridad.
 
 Las clases posibles son:
 

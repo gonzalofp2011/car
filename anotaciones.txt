@@ -1,0 +1,9 @@
+PROMPT utilizado para crear el aplicativo:
+
+Crea una aplicación web en Streamlit para desplegar un modelo de machine learning de clasificación
+usando el dataset Car Evaluation de UCI Machine Learning Repository obtenido con ucimlrepo.
+La aplicación debe permitir ingresar las variables buying, maint, doors, persons, lug_boot y safety.
+Debe cargar modelos guardados en formato pkl desde una carpeta llamada modelos usando joblib.
+Debe permitir seleccionar entre dos modelos entrenados: Árbol de Decisión y Random Forest.
+Debe mostrar la predicción final de la evaluación del auto y las probabilidades por clase.
+La página debe incluir el nombre del estudiante, el código ISIL y el enlace público al cuaderno de Google Colab.
